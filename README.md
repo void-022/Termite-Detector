@@ -1,4 +1,4 @@
-# Termite Detector Using Sensor on Wooden Works
+# Termite Detector Using Sensors on Wooden Works
 ESP32-based mobile embedded system designed to detect termite activity in a non-invasive manner.
 
 ## Operational Video
